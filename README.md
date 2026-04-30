@@ -1,2 +1,0 @@
-# guitar-dojo
-Guitar Training
